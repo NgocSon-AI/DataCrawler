@@ -1,0 +1,1 @@
+# Lưu bài đã quét để tránh trùng
